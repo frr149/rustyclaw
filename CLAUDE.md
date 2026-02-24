@@ -8,7 +8,7 @@ Port de [nanobot](reference/nanobot/) (~8.300 LOC Python) a Rust. Agente de IA p
 
 Objetivo dual: agente funcional en Rust + serie de contenido viral sobre aprender Rust desde cero (blog en frr.dev/keepcoding).
 
-El documento maestro completo está en `RUSTYCLAW.md`.
+El README.es.md tiene la visión completa del proyecto.
 
 ## Comandos de desarrollo
 
