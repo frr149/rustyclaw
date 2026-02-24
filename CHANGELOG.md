@@ -14,4 +14,9 @@ All notable changes to this project will be documented in this file.
 
 - Initialize Rust project scaffold
 
+### Miscellaneous
+
+- Add git-cliff config and initial changelog
+- Add justfile with changelog target
+
 
