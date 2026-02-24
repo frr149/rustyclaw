@@ -1,0 +1,23 @@
+# Rust
+debug/
+target/
+**/*.rs.bk
+*.pdb
+
+# Cargo mutation testing
+**/mutants.out*/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+
+# Secrets
+.env.local
+
+# LLM session files (local only)
+.llm/sessions/
+
+# Personal notes
+next.md
